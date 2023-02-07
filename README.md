@@ -1,3 +1,4 @@
-# NAME-of-REPO
+HLS4ML_GAUSSRNG
 
-Blah.. blah.. blah
+
+HDL Implementation of Gaussian Random Number Generator 
